@@ -2,7 +2,7 @@
 Server side of a Managing Libraries Web App, developed with Node.js, Mongoose and MongoDB
 
 Steps: 
-  Iniciate the database, use the command line: mongod
+  Iniciate the database, use the command line: mongod <br />
   Iniciate the Server Site:
   
     The default method
