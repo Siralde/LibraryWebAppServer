@@ -19,19 +19,19 @@ Steps:
 
 
 How I put it on git: <br />
-  578  git init <br />
-  579  git remote add origin https://github.com/Siralde/LibraryWebAppServer.git<br />
-  580  git fetch<br />
-  581  git reset origin/master<br />
-  582  git checkout -t origin/master<br />
-  583  ls<br />
-  584  git pull<br />
-  585  git pull origin master<br />
-  586  git push --set-upstream origin master<br />
-  587  git status<br />
-  588  git add .<br />
-  589  git status
-  590  sudo rm -rf node_modules/<br />
-  591  git add .<br />
-  592  git commit -m "Initial Commit"<br />
-  593  git push<br />
+    git init <br />
+    git remote add origin https://github.com/Siralde/LibraryWebAppServer.git<br />
+    git fetch<br />
+    git reset origin/master<br />
+    git checkout -t origin/master<br />
+    ls<br />
+    git pull<br />
+    git pull origin master<br />
+    git push --set-upstream origin master<br />
+    git status<br />
+    git add .<br />
+    git status
+    sudo rm -rf node_modules/<br />
+    git add .<br />
+    git commit -m "Initial Commit"<br />
+    git push<br />
